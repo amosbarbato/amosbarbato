@@ -4,7 +4,7 @@
 
   👋 Olá, eu sou o Amós! Um apaixonado estudante de Front End
   <br>
-  👀 Atualmente estou estudando Programação Full Stack em Java na EBAC (Escola Britânica de Artes Criativas).
+  👀 Atualmente estou cursando Programação Full Stack em Java na EBAC (Escola Britânica de Artes Criativas).
 
 
   <div>
