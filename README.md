@@ -20,6 +20,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,postgres,mysql,express,prisma)](https://skillicons.dev)
 
+### DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=github,docker,vercel)](https://skillicons.dev)
+
 ### Contact me
 
 [![My_LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amos-barbato/)
